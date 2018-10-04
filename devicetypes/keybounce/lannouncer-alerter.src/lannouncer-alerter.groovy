@@ -358,5 +358,3 @@ private String convertPortToHex(port) {
     log.debug hexport
     return hexport
 }
-
-
